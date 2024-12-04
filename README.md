@@ -1,0 +1,3 @@
+# JavaScript Null Value Handling
+
+This repository demonstrates a common error in JavaScript: improper null value handling.  The `bug.js` file shows a function that correctly handles null inputs, preventing unexpected behavior or errors. This is a good practice to avoid runtime errors when dealing with potentially null values in your JavaScript code.  Always explicitly check for `null` values and handle them appropriately, whether that's by returning a default value, throwing an error, or gracefully exiting a function.
